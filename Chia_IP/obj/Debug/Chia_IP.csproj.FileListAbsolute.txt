@@ -1,0 +1,12 @@
+c:\users\viber\documents\visual studio 2015\Projects\Chia_IP\Chia_IP\bin\Debug\Chia_IP.exe.config
+c:\users\viber\documents\visual studio 2015\Projects\Chia_IP\Chia_IP\obj\Debug\Chia_IP.csprojResolveAssemblyReference.cache
+c:\users\viber\documents\visual studio 2015\Projects\Chia_IP\Chia_IP\bin\Debug\Chia_IP.exe
+c:\users\viber\documents\visual studio 2015\Projects\Chia_IP\Chia_IP\bin\Debug\Chia_IP.pdb
+c:\users\viber\documents\visual studio 2015\Projects\Chia_IP\Chia_IP\obj\Debug\Chia_IP.exe
+c:\users\viber\documents\visual studio 2015\Projects\Chia_IP\Chia_IP\obj\Debug\Chia_IP.pdb
+D:\Information Techonogy\Lập trình hướng đối tượng\Chia_IP\Chia_IP\Chia_IP\bin\Debug\Chia_IP.exe.config
+D:\Information Techonogy\Lập trình hướng đối tượng\Chia_IP\Chia_IP\Chia_IP\obj\Debug\Chia_IP.exe
+D:\Information Techonogy\Lập trình hướng đối tượng\Chia_IP\Chia_IP\Chia_IP\obj\Debug\Chia_IP.pdb
+D:\Information Techonogy\Lập trình hướng đối tượng\Chia_IP\Chia_IP\Chia_IP\bin\Debug\Chia_IP.exe
+D:\Information Techonogy\Lập trình hướng đối tượng\Chia_IP\Chia_IP\Chia_IP\bin\Debug\Chia_IP.pdb
+D:\Information Techonogy\Lập trình hướng đối tượng\Chia_IP\Chia_IP\Chia_IP\obj\Debug\Chia_IP.csprojResolveAssemblyReference.cache
